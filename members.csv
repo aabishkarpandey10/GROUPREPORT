@@ -1,0 +1,7 @@
+Type,ID,Name,Age,BaseFee,PerformanceRating,AchievedGoal,TrainerFee
+REGULAR,M001,John Smith,25,50.00,85,true
+PT,M002,Emma Johnson,30,43.74,92,true,40.00
+REGULAR,M003,Michael Brown,28,45.00,70,false
+PT,M004,Sarah Davis,35,55.00,88,true,45.00
+REGULAR,M005,David Wilson,22,50.00,45,false
+REGULAR,133,Aabi Pandey,40,80.00,60,true
